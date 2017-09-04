@@ -1,0 +1,243 @@
+{
+    "frames": {
+        "001.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 196,
+                "h": 334,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 196,
+                "h": 334
+            },
+            "sourceSize": {
+                "w": 196,
+                "h": 334
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "003.png": {
+            "frame": {
+                "x": 0,
+                "y": 336,
+                "w": 187,
+                "h": 166,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 187,
+                "h": 166
+            },
+            "sourceSize": {
+                "w": 187,
+                "h": 166
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "004.png": {
+            "frame": {
+                "x": 0,
+                "y": 504,
+                "w": 257,
+                "h": 186,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 257,
+                "h": 186
+            },
+            "sourceSize": {
+                "w": 257,
+                "h": 186
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "bg.png": {
+            "frame": {
+                "x": 259,
+                "y": 0,
+                "w": 899,
+                "h": 583,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 899,
+                "h": 583
+            },
+            "sourceSize": {
+                "w": 899,
+                "h": 583
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "kongwei.png": {
+            "frame": {
+                "x": 259,
+                "y": 585,
+                "w": 614,
+                "h": 75,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 614,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 614,
+                "h": 75
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "win.png": {
+            "frame": {
+                "x": 259,
+                "y": 662,
+                "w": 614,
+                "h": 75,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 614,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 614,
+                "h": 75
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "xingxing.png": {
+            "frame": {
+                "x": 0,
+                "y": 692,
+                "w": 122,
+                "h": 84,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 122,
+                "h": 84
+            },
+            "sourceSize": {
+                "w": 122,
+                "h": 84
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "youlose.png": {
+            "frame": {
+                "x": 124,
+                "y": 739,
+                "w": 347,
+                "h": 31,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 347,
+                "h": 31
+            },
+            "sourceSize": {
+                "w": 347,
+                "h": 31
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "youwin.png": {
+            "frame": {
+                "x": 473,
+                "y": 739,
+                "w": 347,
+                "h": 31,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 347,
+                "h": 31
+            },
+            "sourceSize": {
+                "w": 347,
+                "h": 31
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "zhengchang.png": {
+            "frame": {
+                "x": 124,
+                "y": 772,
+                "w": 614,
+                "h": 75,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 614,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 614,
+                "h": 75
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "ziji.png": {
+            "frame": {
+                "x": 189,
+                "y": 336,
+                "w": 48,
+                "h": 51,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 48,
+                "h": 51
+            },
+            "sourceSize": {
+                "w": 48,
+                "h": 51
+            },
+            "rotated": false,
+            "trimed": false
+        }
+    },
+    "meta": {
+        "app": "http:\/\/www.layabox.com",
+        "version": "0.1.0 alpha",
+        "format": "json",
+        "scale": 1,
+        "image": "settlement.png",
+        "prefix": "showhandRoom\/settlement\/"
+    }
+}

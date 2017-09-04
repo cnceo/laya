@@ -1,0 +1,19 @@
+<res>
+   <item name="common/di-ui.png" type="Image" compress="0" pack="true" quality="80" props=""/>
+   <item name="chat/bg.png" type="Image" compress="0" pack="true" quality="80" props="sizeGrid=38,34,31,38"/>
+   <item name="chat/input.png" type="TextInput" compress="0" pack="true" quality="80" props="sizeGrid=10,53,8,35"/>
+   <item name="chat/1.png" type="Image" compress="0" pack="true" quality="80" props="sizeGrid=20,20,22,18"/>
+   <item name="chat/inputBG.png" type="Image" compress="0" pack="true" quality="80" props="sizeGrid=22,23,16,23"/>
+   <item name="common/wallet/caozi.png" type="Image" compress="0" pack="true" quality="80" props="sizeGrid=3,18,4,14"/>
+   <item name="common/wallet/jindutiao.png" type="Image" compress="0" pack="true" quality="80" props="sizeGrid=4,20,2,13"/>
+   <item name="common/chessgame/numBg.png" type="Image" compress="0" pack="true" quality="80" props="sizeGrid=9,22,11,23"/>
+   <item name="showhandRoom/meirendi.png" type="Image" compress="0" pack="true" quality="80" props="sizeGrid=29,19,22,16"/>
+   <item name="common/meirendi.png" type="Image" compress="0" pack="true" quality="80" props="sizeGrid=33,34,22,20"/>
+   <item name="common/tipsBg.png" type="Image" compress="0" pack="true" quality="80" props="sizeGrid=19,50,17,50"/>
+   <item name="common/historyRecord/003.png" type="Image" compress="0" pack="true" quality="80" props="sizeGrid=45,41,41,41"/>
+   <item name="common/historyRecord/002.png" type="Image" compress="0" pack="true" quality="80" props="sizeGrid=15,24,14,29"/>
+   <item name="common/input.png" type="TextInput" compress="0" pack="0" quality="80" props="sizeGrid=7,33,7,37" picType="0"/>
+   <item name="chat/biaoqingbg.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=24,33,24,30" picType="0"/>
+   <item name="LaPa/shadow.png" type="Image" compress="0" pack="0" quality="80" props="" picType="1"/>
+   <item name="fightLandlordRoom/maskOpenCard.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=22,35,43,35" picType="0"/>
+</res>

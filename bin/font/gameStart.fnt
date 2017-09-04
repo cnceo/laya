@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<font>
+  <info face="Î¢ÈíÑÅºÚ" size="40" bold="0" italic="0" charset="" unicode="1" stretchH="100" smooth="1" aa="2" padding="0,0,0,0" spacing="1,1" outline="0"/>
+  <common lineHeight="40" base="32" scaleW="512" scaleH="512" pages="1" packed="0" alphaChnl="1" redChnl="0" greenChnl="0" blueChnl="0"/>
+  <pages>
+    <page id="0" file="gameStart.png" />
+  </pages>
+  <chars count="7">
+    <char id="-1" x="498" y="0" width="0" height="1" xoffset="0" yoffset="39" xadvance="0" page="0" chnl="15" />
+    <char id="48" x="0" y="0" width="165" height="105" xoffset="0" yoffset="0" xadvance="165" page="0" chnl="15" />
+    <char id="49" x="166" y="0" width="165" height="105" xoffset="0" yoffset="0" xadvance="165" page="0" chnl="15" />
+    <char id="50" x="332" y="0" width="165" height="105" xoffset="0" yoffset="0" xadvance="165" page="0" chnl="15" />
+    <char id="51" x="0" y="106" width="165" height="105" xoffset="0" yoffset="0" xadvance="165" page="0" chnl="15" />
+    <char id="52" x="166" y="106" width="165" height="105" xoffset="0" yoffset="0" xadvance="165" page="0" chnl="15" />
+    <char id="53" x="332" y="106" width="165" height="105" xoffset="0" yoffset="0" xadvance="165" page="0" chnl="15" />
+  </chars>
+</font>

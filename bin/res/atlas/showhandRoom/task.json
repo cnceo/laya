@@ -1,0 +1,75 @@
+{
+    "frames": {
+        "rwDiRoom.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 405,
+                "h": 371,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 405,
+                "h": 371
+            },
+            "sourceSize": {
+                "w": 405,
+                "h": 371
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "rwPiao.png": {
+            "frame": {
+                "x": 0,
+                "y": 373,
+                "w": 436,
+                "h": 68,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 436,
+                "h": 68
+            },
+            "sourceSize": {
+                "w": 436,
+                "h": 68
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "rwZiRoom.png": {
+            "frame": {
+                "x": 407,
+                "y": 0,
+                "w": 119,
+                "h": 109,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 119,
+                "h": 109
+            },
+            "sourceSize": {
+                "w": 119,
+                "h": 109
+            },
+            "rotated": false,
+            "trimed": false
+        }
+    },
+    "meta": {
+        "app": "http:\/\/www.layabox.com",
+        "version": "0.1.0 alpha",
+        "format": "json",
+        "scale": 1,
+        "image": "task.png",
+        "prefix": "showhandRoom\/task\/"
+    }
+}

@@ -1,0 +1,117 @@
+{
+    "frames": {
+        "caijin01.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 305,
+                "h": 87,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 305,
+                "h": 87
+            },
+            "sourceSize": {
+                "w": 305,
+                "h": 87
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "caijin02.png": {
+            "frame": {
+                "x": 0,
+                "y": 89,
+                "w": 305,
+                "h": 87,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 305,
+                "h": 87
+            },
+            "sourceSize": {
+                "w": 305,
+                "h": 87
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "caijin03.png": {
+            "frame": {
+                "x": 0,
+                "y": 178,
+                "w": 305,
+                "h": 87,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 305,
+                "h": 87
+            },
+            "sourceSize": {
+                "w": 305,
+                "h": 87
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "caijin04.png": {
+            "frame": {
+                "x": 0,
+                "y": 267,
+                "w": 305,
+                "h": 87,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 305,
+                "h": 87
+            },
+            "sourceSize": {
+                "w": 305,
+                "h": 87
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "caijin05.png": {
+            "frame": {
+                "x": 0,
+                "y": 356,
+                "w": 305,
+                "h": 87,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 305,
+                "h": 87
+            },
+            "sourceSize": {
+                "w": 305,
+                "h": 87
+            },
+            "rotated": false,
+            "trimed": false
+        }
+    },
+    "meta": {
+        "app": "http:\/\/www.layabox.com",
+        "version": "0.1.0 alpha",
+        "format": "json",
+        "scale": 1,
+        "image": "caijin.png",
+        "prefix": "common\/caijin\/"
+    }
+}
